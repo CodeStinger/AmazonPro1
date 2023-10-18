@@ -13,6 +13,7 @@
     color: white;
     display: flex;
     align-items: center;
+    justify-content: space-evenly;
 }
 .nav-logo{
     height: 50px;
@@ -33,6 +34,7 @@
     border: 1.5px solid wheat;
 }
 
+/* Box 2 */
 .add-icon{
     display: flex;
     align-items: center;
@@ -48,4 +50,41 @@
     color: #ffffff; 
     font-size: 1rem;
     margin-left: 3px;
+}
+
+/* box 2 */
+.nav-search{
+    display: flex;
+    /* align-items: center; */
+    justify-content: space-evenly;
+    width: 720px;
+    height: 40px;
+    border-radius: 3px;
+    background-color: orange;
+}
+
+#box-3-1{
+    background: color #e6e6e6;
+    width: 50px;
+    text-align: center;
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border: none;
+}
+
+.nav-search input{
+    width: 100%;
+    border: none;
+    font-size: 1rem;
+}
+
+.search-icon{
+    width: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+    color: black;
 }
