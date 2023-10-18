@@ -1,0 +1,51 @@
+/* Reset some default styles */
+*{
+    margin: 0px;
+    font-family: Arial;
+    border: border-box;
+}
+
+/* Style for the navigation bar */
+
+.navbar{
+    height: 60px;
+    background-color: #0f1111;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+.nav-logo{
+    height: 50px;
+    width: 100px;
+}
+
+.logo{
+    background: url(./Images/amazon_logo.png);
+    background-size: cover;
+    height: 50px;
+    width: 100%; 
+}
+
+.border{
+    border: 1.5px solid transparent;
+}
+.border:hover{
+    border: 1.5px solid wheat;
+}
+
+.add-icon{
+    display: flex;
+    align-items: center;
+}
+
+.add-first{
+    color: #cccccc; 
+    font-size: 0.85rem;
+    margin-left: 15px;
+}
+
+.add-second{
+    color: #ffffff; 
+    font-size: 1rem;
+    margin-left: 3px;
+}
