@@ -1,2 +1,2 @@
-# AmezonPro1
-Amezon Cloning Project
+# AmazonPro1
+Amazon Cloning Project
