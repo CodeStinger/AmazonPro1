@@ -1,2 +1,2 @@
-# AmazonPro1
+# Amazon_clone
 Amazon Cloning Project
